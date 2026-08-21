@@ -1,5 +1,7 @@
 # Crowd vs Model
 
+**Live (graph):** [https://ali-crowd-vs-model.vercel.app](https://ali-crowd-vs-model.vercel.app)
+
 A live hackathon game. The whole room reads the same short text and decides: person or
 model? The model answered too. Eight rounds, one scoreboard on the projector.
 
